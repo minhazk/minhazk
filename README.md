@@ -1,4 +1,4 @@
-## Hi, I'm Minhazul Karim 👋
+## Hi, I'm Minhaz 👋
 
 Full-stack software engineer currently working on enterprise-level AI conversational chatbots. Formerly in e-commerce operations, building and scaling a personal e-commerce store and an Amazon store.
 
